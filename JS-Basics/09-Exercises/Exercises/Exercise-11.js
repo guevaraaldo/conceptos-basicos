@@ -21,5 +21,5 @@ for (let i = 0; i < numeros.length; i++) {
 
 }
 
-console.log("Array con duplicados:", numeros);
-console.log("Array sin duplicados:", arrayNuevo);
+console.log("Números con duplicados:", numeros);
+console.log("Números sin duplicados:", arrayNuevo);
